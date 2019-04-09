@@ -15,7 +15,7 @@ To use it, run the LyricFinderGUI.py file
 Here are a couple examples of what the output looks like:
 
 # "Halftime" by Nas (Verse 1)
-![alt text](https://github.com/BrooksWatson717/Rhyme-Detector/blob/master/Screen%20Shot%202019-04-09%20at%207.26.12%20PM.png)
+![alt text](https://github.com/BrooksWatson717/Rhyme-Detector/blob/master/Screen%20Shot%202019-04-09%20at%207.28.22%20PM.png)
 
 
 # "The Corner" by Common (Verse 1)
