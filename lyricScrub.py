@@ -3,7 +3,6 @@ import json
 import sys
 from bs4 import BeautifulSoup
 import re
-import time
 
 client_access_token = '78M46rgxDXLJrbqVPzd9kpLHBCMPrGO0sfrgCOX2oUSPEWRu9lMp2WODlncphmoQ'
 
