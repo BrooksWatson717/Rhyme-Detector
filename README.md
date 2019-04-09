@@ -12,6 +12,8 @@ Currently, you have to hit enter after typing in the song and artist name, "Find
 All three .py files must be in the same directory. I don't know how to create a folder on github.
 To use it, run the LyricFinderGUI.py file
 
+# If anyone could figure out how to highlight the vowels in words with multiple vowels please let me know how
+
 Here are a couple examples of what the output looks like:
 
 # "Halftime" by Nas (Verse 1)
