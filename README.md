@@ -9,4 +9,5 @@ The lyricScrub.py file is mostly just edited code written by Will Soares (willam
 
 Currently, you have to hit enter after typing in the song and artist name, "Find Lyrics" button does not work. Also, to try a different song, you have to terminate and then re-run the program.
 
+All three .py files must be in the same directory. I don't know how to create a folder on github.
 To use it, run the LyricFinderGUI.py file
