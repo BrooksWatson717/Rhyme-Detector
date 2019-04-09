@@ -12,4 +12,5 @@ Currently, you have to hit enter after typing in the song and artist name, "Find
 All three .py files must be in the same directory. I don't know how to create a folder on github.
 To use it, run the LyricFinderGUI.py file
 
-![alt text]()
+Here are a couple examples of what the output looks like:
+![alt text](https://github.com/BrooksWatson717/Rhyme-Detector/blob/master/Screen%20Shot%202019-04-09%20at%207.26.12%20PM.png)
